@@ -1,3 +1,9 @@
+
+MENU = """C - Convert Celsius to Fahrenheit
+    F - Convert Fahrenheit to Celsius
+    Q - Quit"""
+
+
 def main():
     """Temperature conversion program."""
     print(MENU)
